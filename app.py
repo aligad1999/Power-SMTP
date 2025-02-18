@@ -94,7 +94,7 @@ def main():
         unsafe_allow_html=True,
     )
 
-    st.title("📧 Enhanced Power-SMTP Bulk Email Sender")
+    st.title("📧 Power-SMTP Bulk Email Sender")
     st.markdown("### Upload an Excel file containing email addresses and compose your message below.")
 
     # File uploader with validation
